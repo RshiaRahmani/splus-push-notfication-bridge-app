@@ -1,0 +1,22 @@
+{
+  "name": "messenger-web-app",
+  "version": "1.0.0",
+  "description": "Progressive Web App wrapper for S Plus Messenger with background notifications",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "messenger",
+    "pwa",
+    "notifications",
+    "web-app",
+    "ios"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
