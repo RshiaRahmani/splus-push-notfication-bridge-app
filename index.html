@@ -221,7 +221,7 @@
             if ('serviceWorker' in navigator) {
                 try {
                     const registration = await navigator.serviceWorker.register('sw.js', {
-                        scope: '/'
+                        scope: '/splus-push-notfication-bridge-app/'
                     });
                     debug.log('Service Worker registered successfully');
                     
