@@ -254,3 +254,4 @@ If notifications still don't work:
 **Version:** 1.0.0  
 **Last Updated:** 2026-04-07  
 **Compatibility:** iOS 16.4+, Android Chrome 90+, Desktop Chrome/Edge
+# splus-push-notfication-bridge-app
